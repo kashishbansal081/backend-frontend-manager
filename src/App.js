@@ -11,7 +11,7 @@ function App() {
       <AddNewBookForm/>
       <Books />
       <BookByTitle title="To Kill a Mockingbird"/>
-      <BookByAuthor authorName="Harper Lee"/>
+      <BookByAuthor authorName="Dan Brown"/>
     </div>
   );
 }
